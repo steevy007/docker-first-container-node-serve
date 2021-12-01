@@ -1,0 +1,10 @@
+{
+  "name": "docker-training",
+  "version": "1.0",
+  "main": "server.js",
+  "author": "sanon steeve",
+  "license": "MIT",
+  "dependencies": {
+    "express": "^4.17.1"
+  }
+}
